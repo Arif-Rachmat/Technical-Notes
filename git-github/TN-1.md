@@ -40,6 +40,8 @@ git config --list --show-origin
 
 ### **b. Workflow Harian & Inspeksi State**
 
+![Git Workflow](/git-github/Resource/Git_workflow.png)
+
 ```bash
 # Cek status area kerja secara ringkas
 git status -s
